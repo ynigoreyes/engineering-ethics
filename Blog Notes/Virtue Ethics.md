@@ -24,8 +24,28 @@
 * A means to an end - Do you actually still respect someone after you do not need them anymore
 
 ## Virtue Ethics
+* This theory basically is a list of virtues that are considered good. If someone
+  were to follow these virtues, they are good people
 * What is the Good Life?
 * Happiness = Contentment/Satisfaction
 * Aristotle's Happiness = Eudaimonia("Flourishing, Well being") - Objective Happiness/Good that is common to all of us
-* Eudaimonia = "rational activity of the soul"
+* Eudaimonia = "rational activity of the soul - Aristotle"
     * Cultivating and Practicing our Essential Capacities
+    * If happiness == contentment, Abe is happy living in a cave
+    * Else, Abe is not happy; Abe is mistaken. He only thinks he is happy
+    * Happiness is rational activity of the soul; cultivating and excerisizing essential capacity
+* Virtue vs. Happiness
+  * Virtue
+    * Cannot be only partially virtuous and be happy
+    * Must be completely virtuous. Couragous and Honest means you are happy.
+    * This is a `AND` type of question. Not an `OR`
+  * Happiness/Eudaimonia
+    * Material Wealth
+    * Relationships
+* Virtue is a golden mean between two extreams
+
+| Deficiency | Golden Mean | Excess |
+| ---------- | ----------- | ------ |
+| Cowardice | Courage | Foolhardy |
+| Lying | Honesty | TMI, Overshare |
+
