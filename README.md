@@ -1,4 +1,5 @@
 # Welcome to Miggy's Engineering Ethics Notes and Stuff
+# Making more changes
 
 ### Office Hours
 10:50am - 1:50pm Wednesdays, by Appointment

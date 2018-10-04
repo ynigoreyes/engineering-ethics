@@ -48,4 +48,20 @@
 | ---------- | ----------- | ------ |
 | Cowardice | Courage | Foolhardy |
 | Lying | Honesty | TMI, Overshare |
+| Asceticism(Self-Denial) | Temperance(Attitude towards pleasure) | Gluttony |
 
+* Role vs. General Virtues
+  * General - Everyone
+  * Role - A superset of General that now includes the virtues of Physicials|Engineers|Doctors
+    * Technical Competence
+    * Excessively Theoretical
+
+* Practical Wisdom - Being perfect
+  * Right Thing
+  * Right Time
+  * Right Duration
+  * Right Intensity
+  * Right Target
+
+* Difference between Utilitarianism and Virtue Ethics
+  * Virtue Ethics acknowledges intention where Utilitarianism does not
