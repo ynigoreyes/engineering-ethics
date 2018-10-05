@@ -42,3 +42,35 @@
   * Don't be a dick and be the smartest guy in the room
 
 * 2.5 Give evaluations of computer systems and their consequences
+
+* 2.6 Only do work that you are confident in
+  * If you are not competent in the work that is required of you to finish, you must tell your employer/customer
+
+* 2.7 Share your work and knowledge with the public
+
+* 2.8 Only use resources that you need when you are authorized to do so or if you believe it is for a good cause
+
+* 2.9 Only build robust and secure systems
+
+# 3 Professional Leadership Principles
+  * Leaders include anyone who has infuence on the group
+
+* 3.1 Public good is the most important
+
+* 3.2 Tell the public about the new technologies that will be affecting our lives
+
+* 3.3 Enhance the working life as much as you can
+
+* 3.4 Promote this Code of Ethics and make sure all of your rules comply
+
+* 3.5 Create opportunities for all the memebers in your organization
+
+* 3.6 Make sure you take care in discontinuing or systems or making updates
+
+* 3.7 If your software becomes widespread and a part of society, take consideration in all decisions
+
+# 4 Compliance with the Code
+
+* 4.1 Keep improving and respecting the Code
+
+* 4.2 Do not let people who are in violation of the code be members
